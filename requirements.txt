@@ -1,0 +1,7 @@
+numpy
+scipy
+opencv-python
+scikit-image>=0.19
+pandas
+tifffile
+zarr
